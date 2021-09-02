@@ -6,8 +6,8 @@ Assignment submission workflow:
 2. Pulling the changes to your local computer
 3. Doing the assignments and commiting changes
 4. Pushing the changes to your github account
-5. Opening a pull request in this repository to merge the changes
+5. Opening a pull request in the main repository to merge the changes
 
 ## Status
-1. Assignment01 (deadline: 09/03/2021)
+1. Assignment01 (Grade: A)
 2. Assignment02 (release: 09/04/2021)
