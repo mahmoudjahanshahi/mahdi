@@ -10,4 +10,4 @@ Assignment submission workflow:
 
 ## Status
 1. Assignment01 (Grade: A)
-2. Assignment02 (release: 09/05/2021)
+2. Assignment02 (due: 09/11/2021)
