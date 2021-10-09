@@ -13,4 +13,4 @@ Assignment submission workflow:
 2. Assignment02 (Grade: A)
 3. Assignment03 (Grade: B)
 4. Assignment04 (Grade: A)
-5. Assignment05 (Release: 10/10/2021, in the meantime, learn the [Texas Hold'em Poker](https://en.wikipedia.org/wiki/Texas_hold_%27em) rules)
+5. Assignment05: poker_cards (due: 10/16/2021)
