@@ -15,4 +15,4 @@ Assignment submission workflow:
 4. Assignment04 (Grade: A)
 5. Assignment05: poker_cards
 6. Assignment06: poker_deck
-7. Assignment07: poker_eval (due: 12/04/2021)
+7. Assignment07: poker_eval (due: 12/11/2021)
